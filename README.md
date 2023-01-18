@@ -2,11 +2,12 @@
 ### This repository contains my solutions for the tasks from the SoftUni course Programming Advanced & OOP with Python-January-2023.<br>
 
 
-### Advanced Training Program:
-### https://softuni.bg/trainings/3963/python-advanced-january-2023
+### [Advanced Training Program](https://softuni.bg/trainings/3963/python-advanced-january-2023)
+### [OOP Training Program](https://softuni.bg/trainings/3964/python-oop-february-2023)
 
 
-### Course details
+
+### Course details:
 Course duration: 12 weeks<br>
 Course start: 10.01.2023<br>
 Course tutors: <br>
