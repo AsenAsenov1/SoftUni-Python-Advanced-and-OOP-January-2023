@@ -1,39 +1,40 @@
 from collections import deque
 
-chocolate = [int(x) for x in input().split(", ")]
-milk = deque([int(x) for x in input().split(", ")])
-prepared_milkshakes = 0
+chocolates = [int(i) for i in input().split(", ")]
+milk_cups = deque(int(i) for i in input().split(", "))
 
-while chocolate and milk and prepared_milkshakes < 5:
-    current_chocolate = chocolate.pop()
-    current_milk = milk.popleft()
+milkshakes = 0
 
-    if current_chocolate and current_milk <= 0:
+while milkshakes < 5 and chocolates and milk_cups:
+    chocolate = chocolates.pop()
+    milk = milk_cups.popleft()
+
+    if chocolate <= 0 and milk <= 0:
         continue
-    if current_chocolate <= 0:
-        milk.appendleft(current_milk)
+    elif chocolate <= 0:
+        milk_cups.appendleft(milk)
         continue
-    if current_milk <= 0:
-        chocolate.append(current_chocolate)
+    elif milk <= 0:
+        chocolates.append(chocolate)
         continue
 
-    if current_chocolate == current_milk:
-        prepared_milkshakes += 1
+    if chocolate == milk:
+        milkshakes += 1
     else:
-        milk.append(current_milk)
-        chocolate.append(current_chocolate - 5)
+        milk_cups.append(milk)
+        chocolates.append(chocolate - 5)
 
-if prepared_milkshakes == 5:
+if milkshakes == 5:
     print("Great! You made all the chocolate milkshakes needed!")
 else:
     print("Not enough milkshakes.")
 
-if chocolate:
-    print(f"Chocolate: {', '.join([str(x) for x in chocolate])}")
+if chocolates:
+    print(f"Chocolate: {', '.join(map(str, chocolates))}")
 else:
     print("Chocolate: empty")
 
-if milk:
-    print(f"Milk: {', '.join([str(x) for x in milk])}")
+if milk_cups:
+    print(f"Milk: {', '.join(map(str, milk_cups))}")
 else:
     print("Milk: empty")
