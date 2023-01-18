@@ -2,8 +2,8 @@
 ### This repository contains my solutions for the tasks from the SoftUni course Programming Advanced & OOP with Python-January-2023.<br>
 
 
-### [Advanced Training Program](https://softuni.bg/trainings/3963/python-advanced-january-2023)
-### [OOP Training Program](https://softuni.bg/trainings/3964/python-oop-february-2023)
+### [Python Advanced Training Program](https://softuni.bg/trainings/3963/python-advanced-january-2023)
+### [Python OOP Training Program](https://softuni.bg/trainings/3964/python-oop-february-2023)
 
 
 
