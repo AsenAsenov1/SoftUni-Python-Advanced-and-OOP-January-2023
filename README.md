@@ -11,35 +11,35 @@
 Course duration: 12 weeks<br>
 Course start: 10.01.2023<br>
 Course tutors: <br>
- • Python Labs: [Mario Zahariev](https://github.com/zahariev-webbersof)<br>
- • Python Exercises: [Diyan Kalaydzhiev](https://github.com/DiyanKalaydzhiev23)<br>
+ &nbsp;&nbsp;&nbsp;• Python Labs: [Mario Zahariev](https://github.com/zahariev-webbersof)<br>
+ &nbsp;&nbsp;&nbsp;• Python Exercises: [Diyan Kalaydzhiev](https://github.com/DiyanKalaydzhiev23)<br>
  
  ![image](https://user-images.githubusercontent.com/47159032/202854609-1e709a05-0c15-436d-93e5-c0a24673a092.png)
 | Advanced | OOP |
 | --- | --- |
 |1. **Resources**<br>|1. **Resources**<br>|
 |2. **Course Info**<br>|2. **Course Info**<br>|
-|3. **Lists as Stacks and Queues**<br><br>• Stacks (creating, adding and removing elements);<br>• Queues (creating, adding and removing elements).|3. **First Steps in OOP**<br><br>• Project Architecture;<br>• Basic Concepts of OOP;<br>• A First Look at Classes;<br>• Scope and Namespace.<br>|
+|3. **Lists as Stacks and Queues**<br>&nbsp;&nbsp;&nbsp;• Stacks (creating, adding and removing elements);<br>&nbsp;&nbsp;&nbsp;• Queues (creating, adding and removing elements).|3. **First Steps in OOP**<br>&nbsp;&nbsp;&nbsp;• Project Architecture;<br>&nbsp;&nbsp;&nbsp;• Basic Concepts of OOP;<br>&nbsp;&nbsp;&nbsp;• A First Look at Classes;<br>&nbsp;&nbsp;&nbsp;• Scope and Namespace.<br>|
 |4. **Exercise: Lists as Stacks and Queues**<br>|4. **Exercise: First Steps in OOP**<br>|
-|5. **Tuples and Sets**<br><br>• Tuples (definition, usage, methods);<br>• Sets (definition, operators, methods).<br>|5. **Classes and Objects**<br><br>• Class Objects;<br>• Instance Objects;<br>• Method Objects;<br>• Class and Instance Variables.<br>|
+|5. **Tuples and Sets**<br>&nbsp;&nbsp;&nbsp;• Tuples (definition, usage, methods);<br>&nbsp;&nbsp;&nbsp;• Sets (definition, operators, methods).<br>|5. **Classes and Objects**<br>&nbsp;&nbsp;&nbsp;• Class Objects;<br>&nbsp;&nbsp;&nbsp;• Instance Objects;<br>&nbsp;&nbsp;&nbsp;• Method Objects;<br>&nbsp;&nbsp;&nbsp;• Class and Instance Variables.<br>|
 |6. **Exercise: Tuples and Sets**<br>|6. **Exercise: Classes and Objects**<br>|
-|7. **Exercise: Stacks, Queues, Tuples and Sets**<br>|7. **Inheritance**<br><br>• Inheritance;<br>• Forms of Inheritance;<br>• Mixins.<br>|
-|8. **Multidimensional Lists**<br><br>• Definition and Usage;<br>• Creating Multidimensional Lists;<br>• Traversing and Manipulation;<br>• Other Nested Structures.<br>|8. **Exercise: Inheritance**<br>|
-|9. **Exercise: Multidimensional Lists**<br>|9. **Encapsulation**<br><br>• Encapsulation Definition;<br>• Access Modifiers in Python;<br>• Getters and Setters.<br>|
+|7. **Exercise: Stacks, Queues, Tuples and Sets**<br>|7. **Inheritance**<br>&nbsp;&nbsp;&nbsp;• Inheritance;<br>&nbsp;&nbsp;&nbsp;• Forms of Inheritance;<br>&nbsp;&nbsp;&nbsp;• Mixins.<br>|
+|8. **Multidimensional Lists**<br>&nbsp;&nbsp;&nbsp;• Definition and Usage;<br>&nbsp;&nbsp;&nbsp;• Creating Multidimensional Lists;<br>&nbsp;&nbsp;&nbsp;• Traversing and Manipulation;<br>&nbsp;&nbsp;&nbsp;• Other Nested Structures.<br>|8. **Exercise: Inheritance**<br>|
+|9. **Exercise: Multidimensional Lists**<br>|9. **Encapsulation**<br>&nbsp;&nbsp;&nbsp;• Encapsulation Definition;<br>&nbsp;&nbsp;&nbsp;• Access Modifiers in Python;<br>&nbsp;&nbsp;&nbsp;• Getters and Setters.<br>|
 |10. **Exercise: Multidimensional Lists**<br>|10. **Exercise: Encapsulation**<br>|
-|11. **Functions Advanced**<br><br>• Packing Arguments;<br>• Unpacking Arguments;<br>• Recursion;<br>• Decorators.<br>|11. **Static and Class Methods**<br><br>• Static Method;<br>• Class Method;<br>• Overriding a Class Method.<br>|
+|11. **Functions Advanced**<br>&nbsp;&nbsp;&nbsp;• Packing Arguments;<br>&nbsp;&nbsp;&nbsp;• Unpacking Arguments;<br>&nbsp;&nbsp;&nbsp;• Recursion;<br>&nbsp;&nbsp;&nbsp;• Decorators.<br>|11. **Static and Class Methods**<br>&nbsp;&nbsp;&nbsp;• Static Method;<br>&nbsp;&nbsp;&nbsp;• Class Method;<br>&nbsp;&nbsp;&nbsp;• Overriding a Class Method.<br>|
 |12. **Exercise: Functions Advanced**<br>|12. **Exercise: Static and Class Methods**<br>|
-|13. **Error Handling**<br><br>• Errors and Exceptions;<br>• Common Error Types;<br>• Custom Exceptions;<br>• Catching Exceptions.<br>|13. **Polymorphism and Abstraction**<br><br>• What is Polymorphism?;<br>• Overriding Magic Methods;<br>• What is Abstraction?;<br>• Abstract classes and methods;<br>• Duck-typing.<br>|
+|13. **Error Handling**<br>&nbsp;&nbsp;&nbsp;• Errors and Exceptions;<br>&nbsp;&nbsp;&nbsp;• Common Error Types;<br>&nbsp;&nbsp;&nbsp;• Custom Exceptions;<br>&nbsp;&nbsp;&nbsp;• Catching Exceptions.<br>|13. **Polymorphism and Abstraction**<br>&nbsp;&nbsp;&nbsp;• What is Polymorphism?;<br>&nbsp;&nbsp;&nbsp;• Overriding Magic Methods;<br>&nbsp;&nbsp;&nbsp;• What is Abstraction?;<br>&nbsp;&nbsp;&nbsp;• Abstract classes and methods;<br>&nbsp;&nbsp;&nbsp;• Duck-typing.<br>|
 |14. **Exercise: Error Handling**<br>|14. **Exercise: Polymorphism and Abstraction**<br>|
-|15. **File Handling**<br><br>• Python File Object;<br>• Opening a File;<br>• Reading File;<br>• Writing and Creating a File;<br>• Deleting a File.<br>|15. **SOLID**<br><br>• Single Resposibility;<br>• Open/Closed;<br>• Liskov Substitution;<br>• Iterface Sugregation;<br>• Dependency Inversion.<br>|
+|15. **File Handling**<br>&nbsp;&nbsp;&nbsp;• Python File Object;<br>&nbsp;&nbsp;&nbsp;• Opening a File;<br>&nbsp;&nbsp;&nbsp;• Reading File;<br>&nbsp;&nbsp;&nbsp;• Writing and Creating a File;<br>&nbsp;&nbsp;&nbsp;• Deleting a File.<br>|15. **SOLID**<br>&nbsp;&nbsp;&nbsp;• Single Resposibility;<br>&nbsp;&nbsp;&nbsp;• Open/Closed;<br>&nbsp;&nbsp;&nbsp;• Liskov Substitution;<br>&nbsp;&nbsp;&nbsp;• Iterface Sugregation;<br>&nbsp;&nbsp;&nbsp;• Dependency Inversion.<br>|
 |16. **Exercise: File Handling**<br>|16. **Exercise: SOLID**<br>|
-|17. **Workshop**<br>|17. **Iterators and Generators**<br><br>• What are Iterators?;<br>• What are Generators? (the yield statement).<br>|
+|17. **Workshop**<br>|17. **Iterators and Generators**<br>&nbsp;&nbsp;&nbsp;• What are Iterators?;<br>&nbsp;&nbsp;&nbsp;• What are Generators? (the yield statement).<br>|
 |18. **Exercise: Workshop**<br>|18. **Exercise: Iterators and Generators**<br>|
-|19. **Modules**<br><br>• Module Definition;<br>• Build-in Modules;<br>• External Modules (PIP);<br>• Custom Modules.<br>|19. **Decorators**<br><br>• Functions Returning Functions;<br>• Decorators;<br>• Accepting Arguments in Decorators;<br>• Passing Arguments to Decorators;<br>• Class Decorators.<br>|
+|19. **Modules**<br>&nbsp;&nbsp;&nbsp;• Module Definition;<br>&nbsp;&nbsp;&nbsp;• Build-in Modules;<br>&nbsp;&nbsp;&nbsp;• External Modules (PIP);<br>&nbsp;&nbsp;&nbsp;• Custom Modules.<br>|19. **Decorators**<br>&nbsp;&nbsp;&nbsp;• Functions Returning Functions;<br>&nbsp;&nbsp;&nbsp;• Decorators;<br>&nbsp;&nbsp;&nbsp;• Accepting Arguments in Decorators;<br>&nbsp;&nbsp;&nbsp;• Passing Arguments to Decorators;<br>&nbsp;&nbsp;&nbsp;• Class Decorators.<br>|
 |20. **Exercise: Modules**<br>|20. **Exercise: Decorators**<br>|
-|21. **Exam Preparation**<br>|21. **Testing**<br><br>• What is Unit Testing?;<br>• Unit Testing Basics;<br>• Unit Testing Framework - unittest;<br>• Mocking.<br>|
+|21. **Exam Preparation**<br>|21. **Testing**<br>&nbsp;&nbsp;&nbsp;• What is Unit Testing?;<br>&nbsp;&nbsp;&nbsp;• Unit Testing Basics;<br>&nbsp;&nbsp;&nbsp;• Unit Testing Framework - unittest;<br>&nbsp;&nbsp;&nbsp;• Mocking.<br>|
 |22. **Exam Preparation**<br>|22. **Exercise: Testing**<br>|
-|23. **Regular Exam**<br>|23. **Design Patterns**<br><br>• Design Patterns;<br>• Definition of Design Patterns;<br>• Benefits and Drawbacks;<br>• Types of Design Patterns.<br>|
+|23. **Regular Exam**<br>|23. **Design Patterns**<br>&nbsp;&nbsp;&nbsp;• Design Patterns;<br>&nbsp;&nbsp;&nbsp;• Definition of Design Patterns;<br>&nbsp;&nbsp;&nbsp;• Benefits and Drawbacks;<br>&nbsp;&nbsp;&nbsp;• Types of Design Patterns.<br>|
 |24. **Retake Exam**<br>|24. **Exam Preparation**<br>|
 ||25. **Exam Preparation**<br>|
 ||26. **Workshop**<br>|
