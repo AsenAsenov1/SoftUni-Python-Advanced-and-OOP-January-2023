@@ -13,14 +13,14 @@ mini_matrix = [
 for bomb_count in bombs:
     bomb_row, bomb_col = [int(x) for x in bomb_count.split(",")]
     bomb_value = matrix[bomb_row][bomb_col]
-
-    #  Reduce the values in the range of the explosion
-    for number in mini_matrix:
-        index_row, index_col = number
-        row, col = bomb_row + index_row, bomb_col + index_col
-        if 0 <= row < size > col >= 0:
-            if matrix[row][col] > 0:
-                matrix[row][col] -= bomb_value
+    if bomb_value > 0:
+        #  Reduce the values in the range of the explosion
+        for number in mini_matrix:
+            index_row, index_col = number
+            row, col = bomb_row + index_row, bomb_col + index_col
+            if 0 <= row < size and 0 <= col < size:  # new
+                if matrix[row][col] > 0:
+                    matrix[row][col] -= bomb_value
 
 #  Find all alive cells
 for matrix_row in matrix:
@@ -29,4 +29,3 @@ for matrix_row in matrix:
 print(f"Alive cells: {len(alive_cells)}")
 print(f"Sum: {sum(alive_cells)}")
 [print(*x) for x in matrix]
-
