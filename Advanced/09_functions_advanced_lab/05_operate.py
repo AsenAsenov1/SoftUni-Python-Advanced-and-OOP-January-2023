@@ -15,6 +15,10 @@ def operate(operator, *args):
         return result
     else:
         return "Invalid operator"
+ 
 
 
-print(operate("-", 5, 4, 3))
+print(operate("+",1,2,3,4)) # Output: 10
+print(operate("-",1,2,3,4)) # Output: -8
+print(operate("*",1,2,3,4)) # Output: 24
+print(operate("/",1,2,3,4)) # Output: 0.041666666666666664
