@@ -1,0 +1,18 @@
+.html
+- - - index.html
+.js
+- - - index.js
+.pptx
+- - - demo.pptx
+.py
+- - - 01_even_lines.py
+- - - 02_line_numbers.py
+- - - 03_file_manipulator.py
+- - - 04_directory_traversal.py
+- - - program.py
+- - - python.py
+.txt
+- - - log.txt
+- - - notes.txt
+- - - output.txt
+- - - text.txt
