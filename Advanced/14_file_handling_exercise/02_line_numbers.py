@@ -22,3 +22,10 @@ with open("./output.txt", 'w+') as output_file:
     for line in saved_data:
         output_file.write(line + '\n')
 
+"""
+Output: output.txt
+
+Line 1: -I was quick to judge him, but it wasn't his fault. (37)(4)
+Line 2: -Is this some kind of joke?! Is it? (24)(4)
+Line 3: -Quick, hide here. It is safer. (22)(4)
+"""
