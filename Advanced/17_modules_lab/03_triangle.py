@@ -17,4 +17,5 @@ Output:
 
 from triangle import create_triangle
 
-create_triangle(5)
+size = int(input())
+create_triangle(size)
