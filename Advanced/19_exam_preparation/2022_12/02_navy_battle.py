@@ -4,6 +4,12 @@ row, col = [0, 0]
 damage = 0
 cruisers_destroyed = 0
 MINE, CRUISER, SUBMARINE = "*", "C", "S"
+directions = {
+    "up": (-1, 0),
+    "down": (1, 0),
+    "left": (0, -1),
+    "right": (0, 1)
+}
 
 for r in range(size):
     current_row = list(input())
@@ -11,12 +17,6 @@ for r in range(size):
         row = r
         col = current_row.index("S")
     matrix.append(current_row)
-
-directions = {"up": [-1, 0],
-              "down": [1, 0],
-              "left": [0, -1],
-              "right": [0, 1]
-              }
 
 while True:
     command = input()
