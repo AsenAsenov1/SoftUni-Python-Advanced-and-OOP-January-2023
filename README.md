@@ -1,4 +1,5 @@
 # SoftUni Programming Advanced & OOP January 2023
+ ![image](https://scontent.fsof10-1.fna.fbcdn.net/v/t1.15752-9/331757089_506576014944579_1342002429795582429_n.png?_nc_cat=102&ccb=1-7&_nc_sid=ae9488&_nc_ohc=RdZVDYDcE_0AX9GZh6s&_nc_ht=scontent.fsof10-1.fna&oh=03_AdTCD-k3DsJoD6_9FlTiJudwMZ7-yUHJgMcd1Zbt2VhMAA&oe=64188DC6)
 ### This repository contains my solutions for the tasks from the SoftUni course Programming Advanced & OOP with Python-January-2023.<br>
 
 
@@ -14,7 +15,7 @@ Course tutors: <br>
  &nbsp;&nbsp;&nbsp;• Python Labs: [Mario Zahariev](https://github.com/zahariev-webbersof)<br>
  &nbsp;&nbsp;&nbsp;• Python Exercises: [Diyan Kalaydzhiev](https://github.com/DiyanKalaydzhiev23)<br>
  
- ![image](https://user-images.githubusercontent.com/47159032/202854609-1e709a05-0c15-436d-93e5-c0a24673a092.png)
+
 | Advanced | OOP |
 | --- | --- |
 |1. **Resources**<br>|1. **Resources**<br>|
