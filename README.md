@@ -1,5 +1,5 @@
 # SoftUni Programming Advanced & OOP January 2023
- ![image](https://scontent.fsof10-1.fna.fbcdn.net/v/t1.15752-9/331757089_506576014944579_1342002429795582429_n.png?_nc_cat=102&ccb=1-7&_nc_sid=ae9488&_nc_ohc=RdZVDYDcE_0AX9GZh6s&_nc_ht=scontent.fsof10-1.fna&oh=03_AdTCD-k3DsJoD6_9FlTiJudwMZ7-yUHJgMcd1Zbt2VhMAA&oe=64188DC6)
+ ![image](SoftUni-Logo-Flat.png)
 ### This repository contains my solutions for the tasks from the SoftUni course Programming Advanced & OOP with Python-January-2023.<br>
 
 
@@ -10,7 +10,8 @@
 
 
 ### [Python OOP Training Program](https://softuni.bg/trainings/3964/python-oop-february-2023)
-
+ ### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;• &nbsp;&nbsp;&nbsp;[Python OOP Certificate Credentials](https://softuni.bg/certificates/details/168196/19c7a2a5)
+ <img src="OOP-Certificate.png"  width="500">
 
 
 ### Course details:
